@@ -1,27 +1,25 @@
 # Styling React for Reuse
 
 ## Abstract:
-We've all installed a component only to discover the burden of styling it to match our brand far outweighs the benefits. 
-Learn the difference between styling for functionality and beauty, use naming conventions to easily find elements, and 
-then use that knowledge to make your components more widely usable without all the pain.
+We've all excitedly installed a third-party component that beautifully fit our functional needs, only to sacrifice design and waste hours covering our code in !important tags to get it "close enough". This talk explores what makes a component easy to brand, and how to develop your components to be more widely customizable without causing all that pain. We will update a component to show class naming conventions for easily locating and targeting elements, styling for functionality versus beauty, and incorporating both inline css and external stylesheets to better fit the needs of your users.
 
 ## Details:
-All code will be pre-written, and will run without an internet connection. After the talk, codepens will be available 
-for reference. 
+All code will be pre-written, and will run without an internet connection. After the talk, codepens and/or a git repo 
+will be available for reference. 
 
 * The good, the bad, and the ugly
     * Load a component, try to fit it into my page, and realize how painful it is. 
     * Try another component, one that works. One that doesn't hurt. 
     
-* Start from a bare-bones, unstylized component, and style it while discussing 
+* Start from a bare-bones, un-stylized component, and style it while discussing 
+    * Class naming conventions such as BEM for easily identifying elements to style
     * Functional versus lipstick styling
     * Inline styles versus stylesheets, and how to use both
-    * Class naming conventions such as BEM for easily identifying elements to style
     * Reusable components are oftentimes not used for their original purpose
     
 * Conclusion
     * I will show a page refreshing with multiple stylesheets, similar to http://www.csszengarden.com, to illustrate 
-    how our newly stylized component can be reskinned in wildly different ways, while keeping it's functionality intact.  
+    how our newly stylized component can be re-skinned in wildly different ways, while keeping it's functionality intact.  
 
 ## Pitch:
 The front-end programming sphere has exploded in recent years. Between state-based components, class naming conventions, 
