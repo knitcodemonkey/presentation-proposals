@@ -25,4 +25,5 @@ will be available for reference.
 The front-end programming sphere has exploded in recent years. Between state-based components, class naming conventions, 
 and the inline versus stylesheet wars, it's difficult to wrap your head around your own components, let alone reusing 
 them. My goal is to take all that information and distill it down into an easy to digest discussion for those who are 
-looking to standardize their own components, or release their first components for public use.
+looking to standardize their own components, or release their first components for public use. This is a talk I 
+wish I'd had available to me earlier, and want to benefit from after other programmers have heard it. 
