@@ -11,10 +11,9 @@ will be available for reference.
     * Load a component, try to fit it into my page, and realize how painful it is. 
     * Try another component, one that works. One that doesn't hurt. 
     
-* Start from a bare-bones, un-stylized component, and style it while discussing 
-    * Class naming conventions such as BEM for easily identifying elements to style
-    * Functional versus lipstick styling
+* Discuss good and bad examples of CSS using various technologies such as css-in-js, glamour, and sass.
     * Inline styles versus stylesheets, and how to use both
+    * Functional versus lipstick styling
     * Reusable components are oftentimes not used for their original purpose
     
 * Conclusion
