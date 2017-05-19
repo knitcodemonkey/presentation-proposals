@@ -23,4 +23,6 @@ will be available for reference.
     how our newly stylized component can be re-skinned in wildly different ways, while keeping it's functionality intact.  
 
 ## Pitch:
-The front-end programming sphere has exploded in recent years. Between state-based components, class naming conventions, and the inline versus stylesheet wars, it's difficult to wrap your head around your own components, let alone releasing them for reuse. My goal is to take all that information and distill it down into an easy to digest discussion for those who are looking to standardize their own components, or release their first components for public use. This is a talk I wish I'd had available to me much earlier in my explorations of React, and want to enjoy the benefit of more reusable components after other programmers have heard it.
+The front-end programming sphere has exploded in recent years. Between state-based components, class naming conventions, and the inline versus stylesheet wars, it's difficult to wrap your head around your own components, let alone releasing them for reuse. 
+
+My goal is to take all that information and distill it down into an easy to digest discussion for those who are looking to standardize their own components, or release their first components for public use. My goal is to help the community, at large, think about css in their OSS components in an extensible way.
