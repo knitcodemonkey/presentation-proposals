@@ -11,9 +11,9 @@ will be available for reference.
     * Load a component, try to fit it into my page, and realize how painful it is. 
     * Try another component, one that works. One that doesn't hurt. 
     
-* Discuss good and bad examples of CSS using various technologies such as css-in-js, glamour, and sass.
-    * Inline styles versus stylesheets, and how to use both
+* Compare good and bad examples of components using different css styles while discussing:
     * Functional versus lipstick styling
+    * Inline, stylesheets, and css-in-js examples.
     * Reusable components are oftentimes not used for their original purpose
     
 * Conclusion
@@ -21,8 +21,4 @@ will be available for reference.
     how our newly stylized component can be re-skinned in wildly different ways, while keeping it's functionality intact.  
 
 ## Pitch:
-The front-end programming sphere has exploded in recent years. Between state-based components, class naming conventions, 
-and the inline versus stylesheet wars, it's difficult to wrap your head around your own components, let alone reusing 
-them. My goal is to take all that information and distill it down into an easy to digest discussion for those who are 
-looking to standardize their own components, or release their first components for public use. This is a talk I 
-wish I'd had available to me earlier, and want to benefit from after other programmers have heard it. 
+The front-end programming sphere has exploded in recent years. Between state-based components, class naming conventions, and the inline versus stylesheet wars, it's difficult to wrap your head around your own components, let alone releasing them for reuse. My goal is to take all that information and distill it down into an easy to digest discussion for those who are looking to standardize their own components, or release their first components for public use. This is a talk I wish I'd had available to me much earlier in my explorations of React, and want to enjoy the benefit of more reusable components after other programmers have heard it.
