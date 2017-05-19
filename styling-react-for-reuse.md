@@ -1,7 +1,9 @@
 # Styling React for Reuse
 
 ## Abstract:
-We've all excitedly installed a third-party component that beautifully fit our functional needs, only to sacrifice design and waste hours covering our code in !important tags to get it "close enough". This talk explores what makes a component easy to brand, and how to develop your components to be more widely customizable without causing all that pain. We will update a component to show class naming conventions for easily locating and targeting elements, styling for functionality versus beauty, and incorporating both inline css and external stylesheets to better fit the needs of your users.
+We’ve all excitedly installed a third-party component that beautifully fit our functional needs, only to sacrifice design, and waste hours covering our code in !important tags to get it “close enough”.
+
+I will use real-world examples to explore what makes a component easy to restyle, and how you can still use your preferred css approach to develop more widely-customizable components without causing all that pain.
 
 ## Details:
 All code will be pre-written, and will run without an internet connection. After the talk, codepens and/or a git repo 
