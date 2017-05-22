@@ -19,7 +19,7 @@ will be available for reference.
     * Reusable components are oftentimes not used for their original purpose
     
 * Conclusion
-    * I will show a page refreshing with multiple stylesheets, similar to http://www.csszengarden.com, to illustrate 
+    * I will show the same component loaded on multiple webpages, similar to http://www.csszengarden.com, to illustrate 
     how our newly stylized component can be re-skinned in wildly different ways, while keeping it's functionality intact.  
 
 ## Pitch:
