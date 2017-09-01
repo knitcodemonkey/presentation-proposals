@@ -5,4 +5,4 @@ We've all installed a component only to discover the burden of styling it to mat
 Learn the difference between styling for functionality and beauty, use naming conventions to easily find elements, and 
 then use that knowledge to make your components more widely usable without all the pain.
 
-##
+## How to: Writing a tech talk from proposal to presentation
