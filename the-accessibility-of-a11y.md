@@ -37,4 +37,4 @@ Accessibility has become a hot topic in recent years, and for good reason! The w
 Growing up with a deaf mother really instilled in me the desire to help make technology accessible to everyone, regardless of their impediments. I've brought this passion into my day job by advocating for accessibility changes with my own scrum team, and sharing that knowledge with my company as a whole. I have recently begun sharing more of that knowledge on twitter, and in my speaking engagements. 
 
 ## More Info:
-Part of my talk, Styling React for Reuse at UtahJS Conf 2017, covers some of these topics.
+Part of my talk, Styling React for Reuse at UtahJS Conf 2017, covers a portion of these topics.
