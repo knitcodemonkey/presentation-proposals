@@ -1,10 +1,36 @@
 # The Accessibility of A11y
 
 ## Abstract:
-We see talk after inspirational talk on how to incorporate a11y features, but the task seems so daunting. Where do you get started? What are the quick wins that will give you the biggest bang for your buck? How can we break this down into smaller, more sprint-filler-sized pieces? I will answer these questions, in addition to sharing some great community resources for taking the confusion out of accessibility.
+We see talk after inspirational talk on how to incorporate a11y features, but the task seems so daunting. Where do you get started? What are the quick wins that will give you the biggest bang for your buck? How can we break this down into smaller, more sprint-filler-sized pieces? I will answer these questions, and share some great community resources to help turn the overwhelming task into an accessible one.
 
 ## Details:
 
+### Why is accessibility important?
+
+The focus has primarily been on the limited number of permanently disabled people that use the web, but the truth is, we have all been disabled at some point in our lives. By focusing on accessibility features being useful for themselves, and those the interact with everyday, the task becomes more personally important.
+
+### What are the roadblocks keeping you from getting started?
+
+* Don't know where to get started
+* Overwhelmed with the huge undertaking of converting legacy code
+* Business priority
+
+### How do I get started?
+
+Talk about resources that help you learn, and identify accessibility problems, and how to fix them. aXe extensions, and linting tools are all useful for moving forward with accessibility in mind, and plugging the worst of the problems in legacy code. 
+
+### (Horror) There is so much to do! 
+
+When we are faced with an epic story, we break it down into smaller stories and tasks. This is no different. There are A11y Checklists that give you an idea for how to break these down. 
+
+### It's just not that high of a priority.
+
+convincing your boss, product owner, and designer can be a hard sell! Armed with information, checklists, and sprint-filler-sized stories you've made from previous section, you can start adding these stories to your sprint. Remember, even one change makes your product more accessible than it was yesterday. 
+
+### Conclusion
+Through education, tooling, and iteration, we can all work together to make the web more accessible, one update at a time.
+
 ## Pitch:
 
+Growing up with a deaf mother really instilled in me the desire to help make technology accessible to everyone, regardless of their impediments. I've brought this passion into my day job by advocating for accessibility changes with my own scrum team, and sharing that knowledge with my company as a whole. I have recently begun sharing more of that knowledge on twitter, and in my speaking engagements. 
 ## More Info:
