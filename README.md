@@ -10,4 +10,4 @@ then use that knowledge to make your components more widely usable without all t
 
 
 ## <a href="https://github.com/knittingcodemonkey/presentation-proposals/blob/master/accessibility-the_sprint-filler_way.md">Accessibility: The Sprint-Filler Way</a>
-We see talk after inspirational talk on how to incorporate a11y features, but the task seems so daunting. Where do you get started? What are the quick wins that will give you the biggest bang for your buck? How can we break this down into smaller, more sprint-filler-sized pieces? I will answer these questions, in addition to sharing some great community resources for taking the sting out of accessibility.
+We see talk after inspirational talk on how to incorporate a11y features, but the task seems so daunting. Where do you get started? What are the quick wins that will give you the biggest bang for your buck? How can we break this down into smaller, more sprint-filler-sized pieces? I will answer these questions, and share some great community resources to help turn the overwhelming task into an accessible one.
