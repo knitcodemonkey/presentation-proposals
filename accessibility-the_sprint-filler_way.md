@@ -1,7 +1,7 @@
 # Accessibility: The Sprint-Filler Way
 
 ## Abstract:
-We see talk after inspirational talk on how to incorporate a11y features, but the task seems so daunting. Where do you get started? What are the quick wins that will give you the biggest bang for your buck? How can we break this down into smaller, more sprint-filler-sized pieces? I will answer these questions, and share some great community resources to help turn the overwhelming task into an accessible one.
+We see so much information about incorporating accessibility (or a11y) features, but the task seems so daunting, or just not that pressing. Why is a11y important? Where do you get started? What are the quick wins that will give you the biggest bang for your buck? How can we break this down into smaller, sprint-filler-sized pieces? I will answer these questions, share some resources for both web and mobile, and discuss the importance of why everyone should focus on a11y. Developers, designers, managers, and more can learn how to take the overwhelming task and turn them into smaller, more accessible ones.
 
 ## Details:
 
