@@ -28,6 +28,6 @@ The front-end programming sphere has exploded in recent years. Between state-bas
 My goal is to take all that information and distill it down into an easy to digest discussion for those who are looking to standardize their own components, or release their first components for public use. My goal is to help the community, at large, think about css in their OSS components in an extensible way.
 
 ## More Info:
-* <https://github.com/knittingcodemonkey/styling-react-for-reuse>
-* <https://codepen.io/knittingcodemonkey/pen/eWQNWX>
+* [Slides](https://github.com/knittingcodemonkey/styling-react-for-reuse)
+
 
