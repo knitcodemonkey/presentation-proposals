@@ -9,7 +9,7 @@ With AR and VR utilizing mobile devices, the technology is on the verge of explo
 * Blind users don't need a visual layer, but an observational layer is desired
 * Standing requirements are impossible for those in wheelchairs, or bedridden
 * Physical mobility limitations need to use a controller instead of walking and touching
-* height scaling?
+* World dimension scaling based on height and armspan of user?
 
 ### Hardware concerns
 * Glasses wearers
