@@ -24,6 +24,8 @@ With AR and VR utilizing mobile devices, the technology is on the verge of explo
 * Auditory Sensitivities
     * Audio can be intense for users without auditory triggers, but should be soothing for those that do
     * 360-degree sound is particularly important for users that can't constantly be spinning around to watch their back
+* Color indication considerations for color blind users
+* Sign/Text/Subtitle reader for illiterate or blind users
 
 ## Pitch:
 
