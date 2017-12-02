@@ -1,7 +1,7 @@
 # Wheelchairs on Mars: AR, VR and A11y
 
 ## Abstract:
-With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. This talk challenges universal design, and explores how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
+As ARKit and VR technologies are in their infancy, we have the opportunity to develop accessibility as a standard from the very beginning. This talk uses sci-fi and fantasy world scenarios to explore how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
 
 ## Details:
 
@@ -30,6 +30,6 @@ With AR and VR utilizing mobile devices, the technology is on the verge of explo
 
 ## Pitch:
 
-ARKit and VR technologies are in their infancy. We have the opportunity to develop the budding industry with accessibility as a standard.
+With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. Teaching developers, designers, and product owners what kind of questions to ask when it comes to accessibility will start this technology off with our best foot forward. 
 
 Growing up with a deaf mother, and a special-needs sister, instilled in me the desire to help make technology accessible to everyone, regardless of their impediments. I've brought this passion into my day job by advocating for accessibility changes with my own scrum team, and sharing that knowledge with my company as a whole. I have recently begun sharing more of that knowledge on twitter, and in my speaking engagements. 
