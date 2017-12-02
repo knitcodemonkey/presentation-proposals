@@ -1,7 +1,7 @@
 # Wheelchairs on Mars: AR, VR and A11y
 
 ## Abstract:
-As ARKit and VR technologies are in their infancy, we have the opportunity to develop accessibility as a standard from the very beginning. This talk uses thought experiments to explore how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
+As ARKit and VR technologies are in their infancy, we have the opportunity to develop accessibility as a standard from the very beginning. This talk uses sci-fi and fantasy world scenarios to explore how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
 
 ## Details:
 
