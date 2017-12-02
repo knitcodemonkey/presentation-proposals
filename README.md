@@ -1,4 +1,4 @@
-## Proposals
+# Proposals
 
 ## <a href="https://github.com/knittingcodemonkey/presentation-proposals/blob/master/styling-react-for-reuse.md">Styling React For Reuse</a>
 <p>We've all installed a component only to discover the burden of styling it to match our brand far outweighs the benefits. 
