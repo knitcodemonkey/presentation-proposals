@@ -34,7 +34,7 @@ Through education, tooling, and iteration, we can all work together to make the 
 
 Accessibility has become a hot topic in recent years, and for good reason! The web has become a deeply engrained part of our lives, and we are excluding people by not allowing them the tools to be able to use it. Inspiring developers is the easy part, but there is still a lot of mystery when it comes to taking the next step. Many devs either don't know much about how to make a site accessible, or the task is so overwhelming that they don't know how to get started. I would like to help change that.
 
-Growing up with a deaf mother really instilled in me the desire to help make technology accessible to everyone, regardless of their impediments. I've brought this passion into my day job by advocating for accessibility changes with my own scrum team, and sharing that knowledge with my company as a whole. I have recently begun sharing more of that knowledge on twitter, and in my speaking engagements. 
+Growing up with a deaf mother, and a special-needs sister, instilled in me the desire to help make technology accessible to everyone, regardless of their impediments. I've brought this passion into my day job by advocating for accessibility changes with my own scrum team, and sharing that knowledge with my company as a whole. I have recently begun sharing more of that knowledge on twitter, and in my speaking engagements.  
 
 ## More Info:
 Part of my talk, Styling React for Reuse at UtahJS Conf 2017, covers a portion of these topics.
