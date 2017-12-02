@@ -32,4 +32,4 @@ With AR and VR utilizing mobile devices, the technology is on the verge of explo
 
 ARKit and VR technologies are in their infancy. We have the opportunity to develop the budding industry with accessibility as a standard.
 
-Growing up with a deaf mother really instilled in me the desire to help make technology accessible to everyone, regardless of their impediments. I've brought this passion into my day job by advocating for accessibility changes with my own scrum team, and sharing that knowledge with my company as a whole. I have recently begun sharing more of that knowledge on twitter, and in my speaking engagements. 
+Growing up with a deaf mother, and a special-needs sister, instilled in me the desire to help make technology accessible to everyone, regardless of their impediments. I've brought this passion into my day job by advocating for accessibility changes with my own scrum team, and sharing that knowledge with my company as a whole. I have recently begun sharing more of that knowledge on twitter, and in my speaking engagements. 
