@@ -30,6 +30,6 @@ As ARKit and VR technologies are in their infancy, we have the opportunity to de
 
 ## Pitch:
 
-With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. Teaching developers, designers, and product owners what kind of questions to ask when it comes to accessibility will start this technology off with our best foot forward. 
+How do wheelchairs navigate other worlds? Can bedridden patients, requiring physical therapy, make use of games to make the experience more enjoyable? How can blind users navigate through an interstellar battle? What accommodations need to be made for children? With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. Teaching developers, designers, and product owners what kind of questions to ask when it comes to accessibility will start this technology off with our best foot forward. 
 
 Growing up with a deaf mother, and a special-needs sister, instilled in me the desire to help make technology accessible to everyone, regardless of their impediments. I've brought this passion into my day job by advocating for accessibility changes with my own scrum team, and sharing that knowledge with my company as a whole. I have recently begun sharing more of that knowledge on twitter, and in my speaking engagements. 
