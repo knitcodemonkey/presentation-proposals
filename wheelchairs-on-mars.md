@@ -5,15 +5,21 @@ As ARKit and VR technologies are in their infancy, we have the opportunity to de
 
 ## Details:
 
-### Amazing AR and VR Uses:
-* https://youtu.be/wpg6a6iuTmo
+### Amazing AR and VR Programs and Hardware:
+* https://youtu.be/wpg6a6iuTmo - 3D4Medical Edicational Software
 * https://www.360cities.net/image/mars-panorama-curiosity-night
 * https://www.vrhealthgroup.com/products/vrphysio/ - Things we can learn from Physical Therapy VR. 
 * https://www.youtube.com/watch?v=4hKfdgA0BEk - Oculus Rift Blade Runner like city and flying car
-* https://www.youtube.com/watch?v=k7n5kRRHDpw - Skyrim with Cyberith Virthualizer + Oculus Rift + Wii Mote 
-   * Accomodates different heights, but what options are available for assistive mobility tech like wheelchairs and crutches?    * What about plus-size users?
+
 * https://www.thevoid.com/
 * https://www.youtube.com/watch?v=jk-3kZ7ytZs - Axon VR Exosuit
+
+#### Hardware
+* https://www.youtube.com/watch?v=k7n5kRRHDpw - Skyrim with Cyberith Virthualizer + Oculus Rift + Wii Mote 
+   * Accomodates different heights, but what options are available for assistive mobility tech like wheelchairs and crutches?    * What about plus-size users?
+* http://www.katvr.com/
+   * OSFA Rarely ever fits all. Children and morbidly obese?
+   * Can the sitting position support a parapalegic user?
 
 ### Problems with Universal Design
 * Blind users don't need a visual layer, but an observational layer is desired
