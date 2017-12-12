@@ -9,6 +9,11 @@ As ARKit and VR technologies are in their infancy, we have the opportunity to de
 * https://youtu.be/wpg6a6iuTmo
 * https://www.360cities.net/image/mars-panorama-curiosity-night
 * https://www.vrhealthgroup.com/products/vrphysio/ - Things we can learn from Physical Therapy VR. 
+* https://www.youtube.com/watch?v=4hKfdgA0BEk - Oculus Rift Blade Runner like city and flying car
+* https://www.youtube.com/watch?v=k7n5kRRHDpw - Skyrim with Cyberith Virthualizer + Oculus Rift + Wii Mote 
+   * Accomodates different heights, but what options are available for assistive mobility tech like wheelchairs and crutches?    * What about plus-size users?
+* https://www.thevoid.com/
+* https://www.youtube.com/watch?v=jk-3kZ7ytZs - Axon VR Exosuit
 
 ### Problems with Universal Design
 * Blind users don't need a visual layer, but an observational layer is desired
