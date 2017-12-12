@@ -5,6 +5,11 @@ As ARKit and VR technologies are in their infancy, we have the opportunity to de
 
 ## Details:
 
+### Amazing AR and VR Uses:
+* https://youtu.be/wpg6a6iuTmo
+* https://www.360cities.net/image/mars-panorama-curiosity-night
+* https://www.vrhealthgroup.com/products/vrphysio/ - Things we can learn from Physical Therapy VR. 
+
 ### Problems with Universal Design
 * Blind users don't need a visual layer, but an observational layer is desired
 * Standing requirements are impossible for those in wheelchairs, or bedridden
