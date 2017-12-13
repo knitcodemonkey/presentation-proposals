@@ -10,7 +10,7 @@ As ARKit and VR technologies are in their infancy, we have the opportunity to de
 * https://www.360cities.net/image/mars-panorama-curiosity-night
 * https://www.vrhealthgroup.com/products/vrphysio/ - Things we can learn from Physical Therapy VR. 
 * https://www.youtube.com/watch?v=4hKfdgA0BEk - Oculus Rift Blade Runner like city and flying car
-
+* https://www.blog.google/products/google-vr/daydream-labs-accessibility-vr/
 * https://www.thevoid.com/
 * https://www.youtube.com/watch?v=jk-3kZ7ytZs - Axon VR Exosuit
 
