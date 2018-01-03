@@ -13,6 +13,7 @@ As ARKit and VR technologies are in their infancy, we have the opportunity to de
 * https://www.blog.google/products/google-vr/daydream-labs-accessibility-vr/
 * https://www.thevoid.com/
 * https://www.youtube.com/watch?v=jk-3kZ7ytZs - Axon VR Exosuit
+* http://gameaccessibilityguidelines.com/
 
 #### Hardware
 * https://www.youtube.com/watch?v=k7n5kRRHDpw - Skyrim with Cyberith Virthualizer + Oculus Rift + Wii Mote 
