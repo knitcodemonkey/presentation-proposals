@@ -14,3 +14,6 @@ then use that knowledge to make your components more widely usable without all t
 
 ## <a href="https://github.com/knittingcodemonkey/presentation-proposals/blob/master/wheelchairs-on-mars.md">Wheelchairs on Mars: AR, VR, and A11y</a>
 <p>With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. This talk challenges universal design, and explores how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.</p>
+
+## <a href="https://github.com/knittingcodemonkey/presentation-proposals/blob/master/webpack-experiments.md">Webpack Experiments</a>
+<p></p>
