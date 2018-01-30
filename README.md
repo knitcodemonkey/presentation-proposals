@@ -16,4 +16,4 @@ then use that knowledge to make your components more widely usable without all t
 <p>With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. This talk challenges universal design, and explores how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.</p>
 
 ## <a href="https://github.com/knittingcodemonkey/presentation-proposals/blob/master/webpack-experiments.md">Webpack Experiments</a>
-<p></p>
+<p>Many of us use Webpack to bundle our assets, but once configured, it can be scary to touch it. Through hands-on examples and experimenting with different configurations, you will walk away with an understanding of how flexible Webpack really is, and the confidence to optimize your own project build steps.</p>
