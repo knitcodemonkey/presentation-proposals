@@ -1,4 +1,4 @@
-# Forbidden Planet Cured my Imposter Syndrome
+# 'Forbidden Planet' Cured my Imposter Syndrome
 
 ## Abstract
 
