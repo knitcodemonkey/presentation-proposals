@@ -1,12 +1,12 @@
 # Proposals
 
 ## [Styling React For Reuse](https://github.com/knittingcodemonkey/presentation-proposals/blob/master/styling-react-for-reuse.md)
-<p>We've all installed a component only to discover the burden of styling it to match our brand far outweighs the benefits. 
+We've all installed a component only to discover the burden of styling it to match our brand far outweighs the benefits. 
 Learn the difference between styling for functionality and beauty, use naming conventions to easily find elements, and 
-then use that knowledge to make your components more widely usable without all the pain.</p>
+then use that knowledge to make your components more widely usable without all the pain.
 
-<p><a href="http://styling-react-for-reuse.surge.sh">View Slides</a></p>
-<p><a href="https://www.youtube.com/watch?v=1H8TO1fVuLY">UtahJS Conference 2017 Video</a></p>
+[View Slides](http://styling-react-for-reuse.surge.sh)
+[UtahJS Conference 2017 Video](https://www.youtube.com/watch?v=1H8TO1fVuLY)
 
 
 ## <a href="https://github.com/knittingcodemonkey/presentation-proposals/blob/master/accessibility-the_sprint-filler_way.md">Accessibility: The Sprint-Filler Way</a>
