@@ -6,6 +6,7 @@ Learn the difference between styling for functionality and beauty, use naming co
 then use that knowledge to make your components more widely usable without all the pain.
 
 [View Slides](http://styling-react-for-reuse.surge.sh)
+
 [UtahJS Conference 2017 Video](https://www.youtube.com/watch?v=1H8TO1fVuLY)
 
 
