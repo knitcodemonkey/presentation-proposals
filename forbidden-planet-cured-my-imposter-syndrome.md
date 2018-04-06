@@ -6,11 +6,11 @@ Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a
 
 ## Details
 
-By suppressing our negative emotions like fear, embarrassment, anger, frustration, exhaustion, etc, we are feeding our own monster (Imposter Syndrome). By facing those feelings head on, and allowing them to be satiated by asking questions, taking time off, and letting our interests guide our learning, we develop a healthier relationship with our career.
+By suppressing our negative emotions like fear, embarrassment, anger, frustration, and exhaustion, we are feeding our own monster (Imposter Syndrome). By facing those feelings head on, and allowing them to be satiated by asking questions, taking time off, and letting our interests guide our learning, we develop a healthier relationship with our career.
 
 Essentially, imposter syndrome comes from within. Not from tech changing quickly, or from others knowing more than us. It comes from being so afraid to sacrifice our pride that we, in essence, bring our own fears into being.
 
-My plan is to use scenes from the movie to tell a relatable story of how we often treat the symptoms, but not the cause, and how we can use those symptoms as an alert system for ourselves.
+I will use scenes from the movie to tell a relatable story of how we often treat the symptoms, but not the cause, and how we can use those symptoms as an alert system for ourselves.
 
 ## Pitch
 
