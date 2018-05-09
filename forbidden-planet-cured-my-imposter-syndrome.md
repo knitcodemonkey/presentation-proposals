@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a pilot, and our monster: imposter syndrome. Let me share how a sci-fi movie from 1956, starring Walter Pidgeon, Anne Francis, and Leslie Nielsen, taught me how to recognize imposter syndrome not as the monster hellbent on ruining my romance with an ever-moving development ecosystem, but as the realization of my own pride. 
+Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a pilot, and our monster: imposter syndrome. Let me share how a sci-fi movie from 1956, starring Walter Pidgeon, Anne Francis, and Leslie Nielsen, taught me how to recognize imposter syndrome not as the monster hellbent on ruining my romance with an ever-evolving frontend ecosystem, but as a tool to prevent burnout.
 
 ## Details
 
