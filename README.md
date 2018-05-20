@@ -7,7 +7,7 @@ then use that knowledge to make your components more widely usable without all t
 
 [View Slides](http://styling-react-for-reuse.surge.sh)
 
-[UtahJS Conference 2017 Video](https://www.youtube.com/watch?v=1H8TO1fVuLY)
+[Video - UtahJS Conference 2017](https://www.youtube.com/watch?v=1H8TO1fVuLY)
 
 
 ## [Accessibility: The Sprint-Filler Way](https://github.com/knitcodemonkey/presentation-proposals/blob/master/accessibility-the_sprint-filler_way.md)
@@ -16,7 +16,7 @@ We see so much information about incorporating accessibility (or a11y) features,
 
 [View Slides](http://a11y-sprint-filler.surge.sh)
 
-[Deseret Digital Media GAAD 2018 Event News Article](https://www.ksl.com/article/46322673/how-programmers-are-helping-improve-internet-access-for-those-with-disabilities)
+[News Article - Deseret Digital Media GAAD 2018 Event](https://www.ksl.com/article/46322673/how-programmers-are-helping-improve-internet-access-for-those-with-disabilities)
 
 ## ['Forbidden Planet' Cured My Imposter Syndrome](https://github.com/knitcodemonkey/presentation-proposals/blob/master/forbidden-planet-cured-my-imposter-syndrome.md)
 Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a pilot, and our monster, imposter syndrome. Let me share how a sci-fi movie from 1956, starring Walter Pidgeon, Anne Francis, and Leslie Nielsen, taught me how to recognize imposter syndrome not as the monster hellbent on ruining my romance with an ever-evolving development ecosystem, but as a tool to prevent burnout.
