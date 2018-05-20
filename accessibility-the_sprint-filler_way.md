@@ -29,7 +29,7 @@ When we are faced with an epic story, we break it down into smaller stories and 
 
 ### Design affects code affects accessibility
 
-Using the button vs div example, I talk about why using inherently accessible HTML is almost always the better option. I also talk about how designing complex interactions, such as a multiselect dropdown, can have difficult, and disasterous effects on the level of accessibility that component can support. 
+Using the button vs div example, I talk about why using inherently accessible HTML is almost always the better option. I also talk about how designing complex interactions, such as a multi-select dropdown, can have difficult, and disastrous effects on the level of accessibility that component can support. 
 
 ## Pitch:
 
