@@ -21,8 +21,8 @@ We see so much information about incorporating accessibility (or a11y) features,
 ## ['Forbidden Planet' Cured My Imposter Syndrome](https://github.com/knitcodemonkey/presentation-proposals/blob/master/forbidden-planet-cured-my-imposter-syndrome.md)
 Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a pilot, and our monster, imposter syndrome. Let me share how a sci-fi movie from 1956, starring Walter Pidgeon, Anne Francis, and Leslie Nielsen, taught me how to recognize imposter syndrome not as the monster hellbent on ruining my romance with an ever-evolving development ecosystem, but as a tool to prevent burnout.
 
-## [Wheelchairs on Mars: AR, VR, and A11y](https://github.com/knitcodemonkey/presentation-proposals/blob/master/wheelchairs-on-mars.md)
-With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. This talk challenges universal design, and explores how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
-
 ## [Webpack Experiments](https://github.com/knitcodemonkey/presentation-proposals/blob/master/webpack-experiments.md)
 Many of us use Webpack to bundle our assets, but once configured, it can be scary to touch it. Through hands-on examples and experimenting with different configurations, you will walk away with an understanding of how flexible Webpack really is, and the confidence to optimize your own project build steps.
+
+## [Wheelchairs on Mars: AR, VR, and A11y](https://github.com/knitcodemonkey/presentation-proposals/blob/master/wheelchairs-on-mars.md)
+With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. This talk challenges universal design, and explores how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
