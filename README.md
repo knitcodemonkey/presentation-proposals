@@ -10,7 +10,7 @@ then use that knowledge to make your components more widely usable without all t
 [Video - UtahJS Conference 2017](https://www.youtube.com/watch?v=1H8TO1fVuLY)
 
 
-## [How to Win A11y and Influence Your Coworkers](https://github.com/knitcodemonkey/presentation-proposals/blob/master/accessibility-the_sprint-filler_way.md)
+## [Accessibility: The Sprint-Filler Way](https://github.com/knitcodemonkey/presentation-proposals/blob/master/accessibility-the_sprint-filler_way.md)
 
 We see so much information about incorporating accessibility (or a11y) features, but the task seems so daunting, or just not that pressing. Why is a11y important? Where do you get started? What are the quick wins that will give you the biggest bang for your buck? How can we break this down into smaller, sprint-filler-sized pieces? I will answer these questions, share some resources, and discuss the importance of why everyone should focus on a11y. Though this talk is more focused on web and mobile, there are topics discussed that reach far beyond those platforms. Developers, designers, managers, and more can learn how to take the overwhelming task and turn them into smaller, more accessible ones.
 
