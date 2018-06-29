@@ -1,4 +1,4 @@
-# How to Win A11y and Influence Your Coworkers
+# Accessibility: The Sprint-Filler Way
 
 ## Abstract:
 We see so much information about incorporating accessibility (or a11y) features, but the task seems so daunting, or just not that pressing. Why is a11y important? Where do you get started? What are the quick wins that will give you the biggest bang for your buck? How can we break this down into smaller, sprint-filler-sized pieces? I will answer these questions, share some resources, and discuss the importance of why everyone should focus on a11y. Though this talk is more focused on web and mobile, there are topics discussed that reach far beyond those platforms. Developers, designers, managers, and more can learn how to take the overwhelming task and turn them into smaller, more accessible ones.
@@ -47,4 +47,4 @@ Through education, tooling, and iteration, we can all work together to make the 
 
 [Deseret Digital Media GAAD 2018 Event News Article](https://www.ksl.com/article/46322673/how-programmers-are-helping-improve-internet-access-for-those-with-disabilities)
 
-[AnywhereJS Video](https://www.youtube.com/watch?v=Uf4HaOZCfVQ)
+[Video - AnywhereJS](https://www.youtube.com/watch?v=Uf4HaOZCfVQ)
