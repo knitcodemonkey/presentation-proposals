@@ -1,4 +1,5 @@
-export default const speakingEngagements = [
+{
+   [
       {
          "date":"Sep 29-30, 2018",
          "confUrl":"http://www.reactboston.com/",
@@ -51,4 +52,5 @@ export default const speakingEngagements = [
          "talkName":"Styling React for Reuse",
          "talkVideo":"https://youtu.be/1H8TO1fVuLY"
       }
-   ];
+   ]
+}
