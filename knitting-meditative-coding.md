@@ -9,13 +9,19 @@
 
 ## Abstract (Guided meditation)
 Please, take a seat and close your eyes.
-Imagine a set if instructions before you. As you read these instructions, you begin to pick out the if statements and for loops.  Go ahead and change those lines in the instructions to code. 
+
+Imagine a set if instructions before you. As you read these instructions, you begin to pick out the if statements and for loops. Go ahead and change those lines in the instructions to code. 
+
 Look over your program. You begin to recognize common sections of code. Abstract them into functions.
 You see patterns in these functions; ways that they fit together. Some of those functions be abstracted into classes or functional objects.
+
 As you finish, you realize the letters themselves can be abstracted into bytes and bits.
+
 Binary begins to emerge.
+
 The 1's, 0's and spaces begin to remind you of another art: The knit, purl and yarn-overs of knitting.
-You begin to work those stitches, following if statements and for loops. Binary becomes art. Art becomes fabric. Code becomes a cardigan. 
+You begin to work those stitches, following if statements and for loops. Binary becomes art. Art becomes fabric. Code becomes a cardigan.
+
 As you open your eyes, you find yourself at a conference, wearing a knit t-shirt, made by a program. 
 The circle continues.
 
