@@ -26,7 +26,7 @@ You begin to work those stitches, following if statements and for loops. Binary 
 As you open your eyes, you find yourself at a conference, wearing a knit t-shirt, made by a program. 
 The circle continues.
 
-## Abstract
+## Details
 
 Knitting has oft been touted as meditation, but what if I told you that knitting is simply meditation's JavaScript? While converting a knitting pattern to a React app, I'll take on a journey you'll never expect.
 
