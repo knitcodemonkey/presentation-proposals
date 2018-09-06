@@ -13,9 +13,10 @@ Please, take a seat and close your eyes.
 Imagine a set if instructions before you. As you read these instructions, you begin to pick out the if statements and for loops. Go ahead and change those lines in the instructions to code. 
 
 Look over your program. You begin to recognize common sections of code. Abstract them into functions.
-You see patterns in these functions; ways that they fit together. Some of those functions be abstracted into classes or functional objects.
 
-As you finish, you realize the letters themselves can be abstracted into bytes and bits.
+You see patterns in these functions; ways that they fit together. Some of those functions can be abstracted into classes or functional objects.
+
+As you finish abstracting those, you realize the letters themselves can be abstracted into bytes and bits.
 
 Binary begins to emerge.
 
