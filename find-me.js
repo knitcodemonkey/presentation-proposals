@@ -4,12 +4,12 @@ const speakingEngagements = [
 		confUrl: 'http://www.reactboston.com/',
 		confName: 'React Boston',
 		talkName: "How 'Forbidden Planet' Cured My Imposter Syndrome",
-    talkVideo: "https://youtu.be/Yk53eWIu7Nw"
+		talkVideo: "https://youtu.be/Yk53eWIu7Nw"
 	},
 	{
 		date: 'Sep 21, 2018',
 		confUrl: 'https://conf.utahjs.com/',
-		confName: 'UtahJS Conf',
+		confName: 'UtahJS Conf',	
 		talkName: 'Discussion Panel: Accessible Technology - Tommy Edison, Jen Luker, Joel Saupe, Kent C. Dodds',
 		talkVideo: 'https://youtu.be/4jPwU-5gAUc',
 	},
