@@ -92,7 +92,7 @@ const speakingEngagements = [
 		confUrl: 'https://conf.utahjs.com/',
 		confName: 'UtahJS Conf',
     confLocation: 'Sandy, UT',
-    talkType: "Session",
+    talkType: 'Session',
 		talkName: 'Styling React for Reuse',
 		talkVideo: 'https://youtu.be/1H8TO1fVuLY',
 	},
