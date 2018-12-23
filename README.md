@@ -7,8 +7,12 @@ Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a
 
 [Video - React Boston 2018](https://youtu.be/Yk53eWIu7Nw)
 
+---
+
 ## [Weaving Tapestries of Code](https://github.com/knitcodemonkey/presentation-proposals/blob/master/weaving-tapestries-of-code.md)
 Yarns, fibers, and fabrics. You have more in common with the weavers of yesteryear than you realize. In this expedition into the past of fiber arts, we'll explore how our coding art is the continuation of our ancestors at the loom, how you can learn lessons from their patterns, and maybe a thing or two about that nice sweater you're wearing.
+
+---
 
 ## [Styling React For Reuse](https://github.com/knitcodemonkey/presentation-proposals/blob/master/styling-react-for-reuse.md)
 We've all installed a component only to discover the burden of styling it to match our brand far outweighs the benefits. 
@@ -18,6 +22,8 @@ then use that knowledge to make your components more widely usable without all t
 [View Slides](http://styling-react-for-reuse.surge.sh)
 
 [Video - UtahJS Conference 2017](https://www.youtube.com/watch?v=1H8TO1fVuLY)
+
+---
 
 ## [Accessibility: The Sprint-Filler Way](https://github.com/knitcodemonkey/presentation-proposals/blob/master/accessibility-the_sprint-filler_way.md)
 
@@ -31,6 +37,9 @@ We see so much information about incorporating accessibility (or a11y) features,
 
 [Video - UtahJS Conference 2018](https://youtu.be/5fJxJ6uGD0c)
 
+---
 
 ## [Wheelchairs on Mars: AR, VR, and A11y](https://github.com/knitcodemonkey/presentation-proposals/blob/master/wheelchairs-on-mars.md)
 With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. This talk challenges universal design, and explores how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
+
+---
