@@ -41,5 +41,3 @@ We see so much information about incorporating accessibility (or a11y) features,
 
 ## [Wheelchairs on Mars: AR, VR, and A11y](https://github.com/knitcodemonkey/presentation-proposals/blob/master/wheelchairs-on-mars.md)
 With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. This talk challenges universal design, and explores how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
-
----
