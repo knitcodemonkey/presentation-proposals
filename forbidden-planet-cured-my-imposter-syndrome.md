@@ -6,7 +6,7 @@ Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a
 
 ## Details
 
-By suppressing our negative emotions like fear, embarrassment, anger, frustration, and exhaustion, we are feeding our own monster (Imposter Syndrome). By facing those feelings head on, and allowing them to be satiated by asking questions, taking time off, and letting our interests guide our learning, we develop a healthier relationship with our career.
+By suppressing our negative emotions like fear, embarrassment, anger, frustration, and exhaustion, we are feeding our own monster (Imposter Syndrome). By facing those feelings head-on, and allowing them to be satiated by asking questions, taking time off, and letting our interests guide our learning, we develop a healthier relationship with our career.
 
 Essentially, imposter syndrome comes from within. Not from tech changing quickly, or from others knowing more than us. It comes from being so afraid to sacrifice our pride that we, in essence, bring our own fears into being.
 
