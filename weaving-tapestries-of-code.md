@@ -3,7 +3,7 @@
 
 ## Abstract
 
-Yarns, fibers, and fabrics. You have more in common with the weavers of yesteryear than you realize. In this expedition into the past of fiber arts, we'll explore how our coding art is the continuation of our ancestors at the loom, how you can learn lessons from their patterns, and maybe a thing or two about that nice sweater you're wearing.
+Yarns, fibers, and fabrics. You have more in common with the weavers of yesteryear than you realize. In this expedition into the past of fiber arts, we'll explore how our coding art is the continuation of our ancestors at the loom, where some of our IDE defaults came from, and why we owe the industrial revolution to an 18th-century French fashion fad.
 
 ## Details
 
