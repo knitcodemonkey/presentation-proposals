@@ -1,9 +1,20 @@
 # Proposals
 
+## Building Accessible Careers
+There has been a huge push for accessibility to be part of external websites, but what about the internal tools we use every day? Jen will go over the reasons internal accessibility is important, where to start, and how small improvements can have a big impact on increasing diversity in our workplaces.
+
+[View Slides - Solidus Conf 2019](https://www.jenluker.com/slides/BuildingAccessibleCareers.pdf)
+
+Video - Solidus Conf 2019 - PENDING
+
+---
+
 ## [How 'Forbidden Planet' Cured My Imposter Syndrome](https://github.com/knitcodemonkey/presentation-proposals/blob/master/forbidden-planet-cured-my-imposter-syndrome.md)
 Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a pilot, and our monster, imposter syndrome. Let me share how a sci-fi movie from 1956, starring Walter Pidgeon, Anne Francis, and Leslie Nielsen, taught me how to recognize imposter syndrome not as the monster hellbent on ruining my romance with an ever-evolving development ecosystem, but as a tool to prevent burnout.
 
 [View Slides](https://www.jenluker.com/forbidden-planet-imposter-syndrome/)
+
+[Video - UtahJS Conf 2019](https://www.youtube.com/watch?v=0B8W-gj0WBk)
 
 [Video - React Boston 2018](https://youtu.be/Yk53eWIu7Nw)
 
@@ -11,6 +22,12 @@ Come with me on an adventure with a heroic robot, a mad scientist, a feminist, a
 
 ## [Weaving Tapestries of Code](https://github.com/knitcodemonkey/presentation-proposals/blob/master/weaving-tapestries-of-code.md)
 Yarns, fibers, and fabrics. You have more in common with the weavers of yesteryear than you realize. In this expedition into the past of fiber arts, we'll explore how our coding art is the continuation of our ancestors at the loom, how you can learn lessons from their patterns, and maybe a thing or two about that nice sweater you're wearing.
+
+[View Slides](https://www.jenluker.com/weaving-tapestries-of-code/
+
+[Video - React Rally 2019](https://www.youtube.com/watch?v=M5tyaBBqKIw)
+
+[Video - JSConf 2019](https://www.youtube.com/watch?v=SbLVCtdLRMc)
 
 ---
 
@@ -36,8 +53,3 @@ We see so much information about incorporating accessibility (or a11y) features,
 [Video - AnywhereJS 2018](https://www.youtube.com/watch?v=Uf4HaOZCfVQ)
 
 [Video - UtahJS Conference 2018](https://youtu.be/5fJxJ6uGD0c)
-
----
-
-## [Wheelchairs on Mars: AR, VR, and A11y](https://github.com/knitcodemonkey/presentation-proposals/blob/master/wheelchairs-on-mars.md)
-With AR and VR utilizing mobile devices, the technology is on the verge of exploding into every home, school, mall and doctor's office. This talk challenges universal design, and explores how users with limitations interact differently with the hardware we develop, and the virtual worlds we create.
